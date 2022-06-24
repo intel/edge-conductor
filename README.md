@@ -85,22 +85,13 @@ on a management console to operate and administer the cluster.
 
 
 
-## Download and Build Edge Conductor Code (Internal users only)
+## Download and Build Edge Conductor Code
 
-1.  Get the code using one of the following methods:
+1.  Get the code :
 
-    * Get the code from git repo:
-        
-        ```bash
-        git clone https://github.com/intel/edge-conductor.git edge-conductor
-        ```
-
-    * Unzip the code package, for example, `edge_conductor_<version>.tar.gz`:
-
-        ```bash
-        tar zxvf edge_conductor_<version>.tar.gz
-        ln -sf edge_conductor_<version> edge-conductor
-        ```
+    ```bash
+    git clone https://github.com/intel/edge-conductor.git edge-conductor
+    ```
 
 2.  Build the code:
 
