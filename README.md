@@ -13,6 +13,7 @@
   * [HW Requirements for Edge Conductor Day-0 Host](#hw-requirements-for-edge-conductor-day-0-host)
   * [OS and System Requirements for Edge Conductor Day-0 Host](#os-and-system-requirements-for-edge-conductor-day-0-host)
   * [FAQ](#faq)
+  * [Contribute](#contribute)
 
 
 
@@ -245,8 +246,13 @@ create the initial admin account.
 
 ***NOTE***: If you do not create your admin account in 5 minutes after the service is launched, then the Portainer service will restart itself automatically. (See the Portainer issue reported here: https://github.com/portainer/portainer/issues/2475)
 
+## Contribute
+
+Refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
 Copyright (C) 2022 Intel Corporation
 
 SPDX-License-Identifier: Apache-2.0
+
+[CONTRIBUTING.md]: [https://github.com/intel](https://github.com/intel/edge-conductor/blob/main/.github/CONTRIBUTING.md)
